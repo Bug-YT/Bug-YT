@@ -2,7 +2,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Bug-YT)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bug-YT)
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Bug-YT)
+<!-- ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Bug-YT) -->
 
 <!--
 **Bug-YT/Bug-YT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
