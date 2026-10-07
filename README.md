@@ -33,7 +33,7 @@ and learning by actually making software.
 
 ## 🛠️ Tech Stack
 
-### · Shell
+### Shell
 
 <div align="center">
 
@@ -43,7 +43,7 @@ and learning by actually making software.
 
 </div>
 
-### · Programming Languages
+### Programming Languages
 
 <div align="center">
 
@@ -52,7 +52,7 @@ and learning by actually making software.
 
 </div>
 
-### · Web
+### Web
 
 <div align="center">
 
