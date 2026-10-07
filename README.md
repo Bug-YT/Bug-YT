@@ -7,7 +7,7 @@
 
 </div>
 
----
+<div align="center">
 
 ## 👋 About Me
 
@@ -27,7 +27,9 @@ and learning by actually making software.
 - Experiments, prototypes, and small tools
 - Understanding how things work under the hood
 
----
+</div>
+
+<div align="center">
 
 ## 🛠️ Tech Stack
 
@@ -62,11 +64,11 @@ and learning by actually making software.
 
 </div>
 
----
-
-## 📊 GitHub Stats
+</div>
 
 <div align="center">
+
+## 📊 GitHub Stats
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Bug-YT&show_icons=true&theme=radical&hide_border=true" alt="GitHub statistics" />
 
@@ -76,11 +78,9 @@ and learning by actually making software.
 
 </div>
 
----
+<div align="center">
 
 ## 📈 Contribution Metrics
-
-<div align="center">
 
 <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DBug-YT%26type%3Djson" alt="Total GitHub contributions" />
 
@@ -92,17 +92,13 @@ and learning by actually making software.
 
 </div>
 
----
+<div align="center">
 
 ## 💬 Quote
-
-<div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Programming quote" />
 
 </div>
-
----
 
 <!-- Footer -->
 <div align="center">
