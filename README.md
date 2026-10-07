@@ -32,7 +32,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bug-YT&theme=radical&hide_border=true" alt="Streak" />
 
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bug-YT&theme=react-dark&hide_border=true" alt="Activity" /> -->
-
+<!--
 </div>
 
 ## 🏆 Trophies
@@ -42,6 +42,8 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Bug-YT&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
 
 </div>
+
+-->
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Footer" />
