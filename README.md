@@ -20,6 +20,7 @@ Hi, I'm **Bug**.
 I'm a developer who enjoys building things, experimenting with new ideas,
 and learning by actually making software.
 
+<!--
 ### 🔭 Currently Working On
 
 - `[PROJECT / REPOSITORY 1]` — `[SHORT DESCRIPTION]`
@@ -31,6 +32,7 @@ and learning by actually making software.
 - `[TECHNOLOGY / LANGUAGE / TOPIC 1]`
 - `[TECHNOLOGY / LANGUAGE / TOPIC 2]`
 - `[TECHNOLOGY / LANGUAGE / TOPIC 3]`
+-->
 
 ### 💡 Interested In
 
@@ -43,6 +45,7 @@ and learning by actually making software.
 - Experiments, prototypes, and small tools
 - Understanding how things work under the hood
 
+<!--
 ---
 
 ## 🚀 Projects
@@ -83,6 +86,7 @@ and learning by actually making software.
 - **Language:** `[LANGUAGE / LANGUAGES]`
 - **Status:** `[ACTIVE / EXPERIMENTAL / ARCHIVED / WIP]`
 -->
+-->
 
 ---
 
@@ -109,11 +113,11 @@ Add more technologies here:
 
 </div>
 
+<!--
 ---
 
 ## 🧰 Tools & Environment
 
-<!--
 Replace or expand this section with the tools you actually use.
 
 Examples:
@@ -126,11 +130,11 @@ Examples:
 - `[BUILD SYSTEM]`
 - `[PACKAGE MANAGER]`
 - `[OTHER TOOL]`
--->
 
 - `[TOOL / ENVIRONMENT 1]`
 - `[TOOL / ENVIRONMENT 2]`
 - `[TOOL / ENVIRONMENT 3]`
+-->
 
 ---
 
@@ -199,11 +203,12 @@ Examples:
 - Website: `[WEBSITE URL]`
 - Discord: `[DISCORD / INVITE URL]`
 - Email: `[PUBLIC EMAIL ADDRESS]`
--->
+
 
 - **GitHub:** [Bug-YT](https://github.com/Bug-YT)
 - **Website:** `[WEBSITE URL]`
 - **Other:** `[LINK / PLATFORM]`
+-->
 
 ---
 
