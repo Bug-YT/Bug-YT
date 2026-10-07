@@ -5,7 +5,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Bug;Building+tools+and+experiments;Always+learning%2C+always+shipping" alt="Typing" />
 
+<!--
 <img src="https://komarev.com/ghpvc/?username=Bug-YT&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Views" />
+-->
 
 </div>
 
