@@ -34,6 +34,27 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bug-YT&theme=radical&hide_border=true" alt="Streak" />
 
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bug-YT&theme=react-dark&hide_border=true" alt="Activity" /> -->
+
+## 📈 Contribution Metrics
+
+<div align="center">
+
+<img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DBug-YT%26type%3Djson" alt="Total contributions" />
+
+<img src="https://github-contribution-stats.vercel.app/api/?username=Bug-YT" alt="Contribution stats" />
+
+<a href="https://profile-summary-for-github.com/user/Bug-YT"><img src="https://img.shields.io/badge/Full%20Profile%20Summary-open-blueviolet?style=for-the-badge" alt="Profile summary" /></a>
+
+</div>
+
+## 💬 Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Programming quote" />
+
+</div>
+
 <!--
 </div>
 
