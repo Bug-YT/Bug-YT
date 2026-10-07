@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Bug&fontSize=80&fontAlignY=38&animation=fadeIn&desc=Code%20%C2%B7%20Tools%20%C2%B7%20Experiments&descAlignY=60" alt="Bug — Code · Tools · Experiments" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Tomorrow&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Bug;Building+tools+and+experiments;Always+learning%2C+always+shipping" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Tomorrow&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Bug;Software+Development;Systems+Programming;Open+Source;Developer+Tools;Automation+%26+Tooling;Software+Architecture;Computer+Science;Experimenting+with+Technology" alt="Typing introduction" />
 
 </div>
 
@@ -31,12 +31,34 @@ and learning by actually making software.
 
 ## 🛠️ Tech Stack
 
+### · Shell
+
 <div align="center">
 
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![POSIX-Sh](https://img.shields.io/badge/POSIX%20Sh-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-89E051?style=for-the-badge&logo=zsh&logoColor=black)
+
+</div>
+
+### · Programming Languages
+
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+### · Web
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 </div>
 
