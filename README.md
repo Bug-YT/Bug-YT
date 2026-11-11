@@ -16,16 +16,20 @@ Hi, I'm **Bug**.
 I'm a developer who enjoys building things, experimenting with new ideas,
 and learning by actually making software.
 
+<div align="center">
+
 ### 💡 Interested In
 
-- Developer tools and utilities
-- Shell scripting and automation
-- Python development
-- JavaScript and web technologies
-- Programming languages and runtimes
-- Local / self-hosted software
-- Experiments, prototypes, and small tools
-- Understanding how things work under the hood
+<ul>
+  <li>Developer tools and utilities</li>
+  <li>Shell scripting and automation</li>
+  <li>Python development</li>
+  <li>JavaScript and web technologies</li>
+  <li>Programming languages and runtimes</li>
+  <li>Local / self-hosted software</li>
+  <li>Experiments, prototypes, and small tools</li>
+  <li>Understanding how things work under the hood</li>
+</ul>
 
 </div>
 
@@ -70,10 +74,6 @@ and learning by actually making software.
 
 ## 📊 GitHub Stats
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Bug-YT&show_icons=true&theme=radical&hide_border=true" alt="GitHub statistics" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bug-YT&layout=compact&theme=radical&hide_border=true" alt="Most used programming languages" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bug-YT&theme=radical&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
@@ -82,9 +82,9 @@ and learning by actually making software.
 
 ## 📈 Contribution Metrics
 
-<img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DBug-YT%26type%3Djson" alt="Total GitHub contributions" />
-
 <img src="https://github-contribution-stats.vercel.app/api/?username=Bug-YT" alt="GitHub contribution statistics" />
+
+<br>
 
 <a href="https://profile-summary-for-github.com/user/Bug-YT">
   <img src="https://img.shields.io/badge/Full%20Profile%20Summary-open-blueviolet?style=for-the-badge" alt="Open full GitHub profile summary" />
